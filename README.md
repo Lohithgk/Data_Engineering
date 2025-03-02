@@ -16,6 +16,10 @@ Dimension Tables:
 
   ![Data Model](https://github.com/Lohithgk/Data_Engineering/blob/main/Docs/Data%20Model.jpg)
 
+## Script
+- [Workflow using PySpark](https://github.com/Lohithgk/Data_Engineering/blob/main/Scripts/Workflow%20using%20PySpark.ipynb)
+- [Workflow using SparkSQL](https://github.com/Lohithgk/Data_Engineering/blob/main/Scripts/Workflow%20using%20SparkSQL.ipynb)
+
 ## Script Weblink
 - [Workflow using PySpark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3690907634854246/2866696411247148/8959865570045467/latest.html)
 
