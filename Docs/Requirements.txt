@@ -1,0 +1,5 @@
+# Requirements for ETL Workflow
+
+1. Environment: https://community.cloud.databricks.com/
+2. Dataset: https://www.kaggle.com/datasets/ukveteran/adventure-works/data
+3. Spark 3.5.0
