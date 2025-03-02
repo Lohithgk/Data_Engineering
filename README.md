@@ -1,7 +1,23 @@
 
 # Spark ETL Workflow
-
 This project showcases an extract, transform, and load (ETL) data using PySpark and SparkSQL by adopting a star schema design (with a slight snowflake design on the product side).
+
+### Project Description
+This project presents an end-to-end ETL workflow on Databricks using PySpark and SparkSQL, illustrating how to extract, transform, and load (ETL) data.
+
+### 1. Data Extraction:
+The source data is stored in CSV format on the Databricks Distributed File System (DBFS).
+The pipeline ingests six CSV files into a Spark environment for further processing.
+
+### 2. Data Transformation:
+PySpark’s distributed processing power is used to perform data blending, filtering, aggregation, and apply business logic.
+Data is filtered to include only “Accessories” categories and “United States” country records.
+The star schema design employs one fact table (storing the core transactional data) and five dimension tables with a slight snowflake schema on the product dimension.
+
+### 3. Data Loading:
+The transformed data is then loaded into output folder of dbfs' FileStore.
+
+Conclusion, By combining PySpark/SparkSQL, and a well-defined star schema with a slight snowflake extension for the product dimension, the project demonstrates an efficient end-to-end ETL workflow on Databricks.
 
 ## Data Model
 Fact Table:
