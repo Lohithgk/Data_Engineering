@@ -1,5 +1,7 @@
-# Data_Engineering
-A project demonstrating extract, transform, and load (ETL) processes using a star schema design, PySpark and SparkSQL.
+
+# Spark ETL Workflow
+
+This project showcases an extract, transform, and load (ETL) data using PySpark and SparkSQL by adopting a star schema design (with a slight snowflake design on the product side).
 
 # Data Model
 Fact Table:
