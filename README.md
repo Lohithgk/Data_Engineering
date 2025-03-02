@@ -3,11 +3,11 @@
 
 This project showcases an extract, transform, and load (ETL) data using PySpark and SparkSQL by adopting a star schema design (with a slight snowflake design on the product side).
 
-# Data Model
+## Data Model
 Fact Table:
-- Sales.CSV
+- [Sales.CSV] ()
 
-Dim Tables:
+Dimension Tables:
 - Products.CSV
 - Product_Subcategories.CSV
 - Product_Categories.CSV
