@@ -5,14 +5,14 @@ This project showcases an extract, transform, and load (ETL) data using PySpark 
 
 ## Data Model
 Fact Table:
-- Sales.CSV
+- [Sales.CSV](https://github.com/Lohithgk/Data_Engineering/blob/main/Datasets/Sales.csv)
 
 Dimension Tables:
-- Products.CSV
-- Product_Subcategories.CSV
-- Product_Categories.CSV
-- Territories.CSV
-- Customers.CSV
+- [Products.CSV](https://github.com/Lohithgk/Data_Engineering/blob/main/Datasets/Products.csv)
+- [Product_Subcategories.CSV](https://github.com/Lohithgk/Data_Engineering/blob/main/Datasets/Product_Subcategories.csv)
+- [Product_Categories.CSV](https://github.com/Lohithgk/Data_Engineering/blob/main/Datasets/Product_Categories.csv)
+- [Territories.CSV](https://github.com/Lohithgk/Data_Engineering/blob/main/Datasets/Territories.csv)
+- [Customers.CSV](https://github.com/Lohithgk/Data_Engineering/blob/main/Datasets/Customers.csv)
 
   ![Data Model](https://github.com/Lohithgk/Data_Engineering/blob/main/Docs/Data%20Model.jpg)
 
